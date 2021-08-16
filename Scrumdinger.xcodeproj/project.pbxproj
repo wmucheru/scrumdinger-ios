@@ -37,8 +37,8 @@
 		5AA88DB226CAAAC100C1BD53 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA88DB026CAAAC100C1BD53 /* ScrumProgressViewStyle.swift */; };
 		5AA88DB426CAABFF00C1BD53 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA88DB326CAABFF00C1BD53 /* AVPlayer+Ding.swift */; };
 		5AA88DB526CAABFF00C1BD53 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA88DB326CAABFF00C1BD53 /* AVPlayer+Ding.swift */; };
-		5AA88DB826CAADAC00C1BD53 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5AA88DB726CAADAC00C1BD53 /* ding.wav */; };
-		5AA88DB926CAADAC00C1BD53 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5AA88DB726CAADAC00C1BD53 /* ding.wav */; };
+		5AA88DBB26CAAF7E00C1BD53 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5AA88DBA26CAAF7E00C1BD53 /* ding.wav */; };
+		5AA88DBC26CAAF7E00C1BD53 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5AA88DBA26CAAF7E00C1BD53 /* ding.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,7 +84,7 @@
 		5AA88DAD26CAA60300C1BD53 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		5AA88DB026CAAAC100C1BD53 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
 		5AA88DB326CAABFF00C1BD53 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
-		5AA88DB726CAADAC00C1BD53 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ding.wav; path = ../../../../Downloads/ding.wav; sourceTree = "<group>"; };
+		5AA88DBA26CAAF7E00C1BD53 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,7 +210,7 @@
 		5AA88DB626CAAD9600C1BD53 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				5AA88DB726CAADAC00C1BD53 /* ding.wav */,
+				5AA88DBA26CAAF7E00C1BD53 /* ding.wav */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -339,7 +339,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5AA88DB826CAADAC00C1BD53 /* ding.wav in Resources */,
+				5AA88DBB26CAAF7E00C1BD53 /* ding.wav in Resources */,
 				5A750B2E26C5C0B000459C26 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -348,7 +348,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5AA88DB926CAADAC00C1BD53 /* ding.wav in Resources */,
+				5AA88DBC26CAAF7E00C1BD53 /* ding.wav in Resources */,
 				5A750B2F26C5C0B000459C26 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
